@@ -1,9 +1,11 @@
 {
+  "homepage": "https://enamul58.github.io/Spotify-Clone-React-JS-Tailwind-CSS",
+  "name": "vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
